@@ -1,5 +1,5 @@
 # SimpleSniffer
-Python版简单的Linux数据包嗅探器
+Python版简单的Linux数据包嗅探器，目前不支持Windows系统
 
 ##主要功能
 + 1.打开保存标准的pcap数据包
